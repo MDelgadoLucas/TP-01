@@ -21,3 +21,4 @@ El archivo _.gitignore_ debe ser creado al inicio del proyecto o tan pronto como
 ### ¿Cómo configuraría el archivo .gitignore?
 
 La configuración del archivo _.gitignore_ depende del tipo de proyecto y de los archivos que deseas ignorar. El archivo _.gitignore_ contiene reglas que indican a Git qué archivos o directorios deben ser ignorados.
+<hr>
