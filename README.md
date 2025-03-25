@@ -26,7 +26,7 @@ La configuración del archivo _.gitignore_ depende del tipo de proyecto y de los
 
 ### ¿Por qué la dirección de memoria almacenada por el puntero y la dirección de memoria de la variable son iguales?
 
-En el programa, cuando asigno p_num = &num;, lo que hago es almacenar en el puntero _p_num_ la dirección de memoria de la variable _num_. Por lo tanto, p_num apunta exactamente a la dirección donde está almacenado num. Como resultado, tanto la dirección de memoria almacenada por el puntero (p_num) como la dirección de memoria de la variable (&num) son iguales.
+En el programa, cuando asigno _p_num_ = _&num_;, lo que hago es almacenar en el puntero _p_num_ la dirección de memoria de la variable _num_. Por lo tanto, p_num apunta exactamente a la dirección donde está almacenado num. Como resultado, tanto la dirección de memoria almacenada por el puntero (p_num) como la dirección de memoria de la variable (&num) son iguales.
 
 ### Dirección de memoria del puntero
 
